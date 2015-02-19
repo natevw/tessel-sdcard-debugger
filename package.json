@@ -1,0 +1,15 @@
+{
+  "name": "tessel-sdcard-debugger",
+  "version": "1.0.0",
+  "description": "Outputs some debug information for SD Cards plugged into Tessel port A",
+  "main": "card_debug.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathan Vander Wilt",
+  "license": "PDDL-1.0",
+  "dependencies": {
+    "parsetition": "^0.1.2",
+    "sdcard": "^0.8.5"
+  }
+}

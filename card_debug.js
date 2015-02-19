@@ -1,0 +1,1 @@
+../sdcard/examples/card_debug.js
